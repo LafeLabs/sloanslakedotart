@@ -7,6 +7,7 @@
         "readme.html",
         "readmeeditor.html",
         "trashmagic.css",
+        "trashmagic.html",
         "trashmagic.js",
         "webdestroyer.html",
         "webeditor.html"
