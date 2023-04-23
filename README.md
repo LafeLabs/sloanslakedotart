@@ -1,6 +1,6 @@
-![]()
+![](https://raw.githubusercontent.com/LafeLabs/sloanslakedotart/main/trashmagic/qrcode.png)
 
-![]()
+![](https://raw.githubusercontent.com/LafeLabs/sloanslakedotart/main/trashmagic/qrcode-page.png)
 
 ## [HOME](index.html)
 
