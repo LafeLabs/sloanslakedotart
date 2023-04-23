@@ -1,5 +1,7 @@
 ## [HOME](index.html)
 
+# [WWW.SLOANSLAKE.ART](https://www.sloanslake.art)
+
 # TRASH MAGIC!
 
 ## SELF-REPLICATING MEDIA MADE OF TRASH!
@@ -18,7 +20,7 @@ sudo apt install php libapache2-mod-php -y
 cd /var/www/html
 sudo rm index.html
 sudo apt install curl
-sudo curl -o replicator.php https://raw.githubusercontent.com/LafeLabs/sloanslakedotart/main/zines/php/replicator.txt
+sudo curl -o replicator.php https://raw.githubusercontent.com/LafeLabs/sloanslakedotart/main/php/replicator.txt
 cd ..
 sudo chmod -R 0777 *
 cd html
