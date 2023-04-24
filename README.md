@@ -13,7 +13,7 @@
 ## [GITHUB REPLICATOR](https://github.com/LafeLabs/sloanslakedotart)
 
  - GET LAPTOPS DONATED
- - MAKE A UBUNTU LINUX INSTALL USB THUMB DRIVE AND PAINT IN PURPLE
+ - [MAKE A UBUNTU LINUX INSTALL USB THUMB DRIVE](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview) AND PAINT IN PURPLE
  - INSTALL LINUX ON DONATED LAPTOPS AND WRITE THE PASSWORD AND LOGIN ON THE LAPTOP
  - NEVER PUT ANY PERSONAL OR PRIVATE INFORMATION ON THE LAPTOPS EVER
  - GO TO THE COMMAND LINE ON THE LAPTOP AND TYPE THE FOLLOWING TO INSTALL THE SERVER:
@@ -38,4 +38,5 @@ Share the server on shared wifi networks via QR Code which points to the IP addr
 need to add port forwarding, use of domains and how to use nginx proxy manager to build the MAGIC DUMP.  We don't host content we host links to content.  We are the connectors!
 
 we use physical spaces to link social media accounts.
+
 
