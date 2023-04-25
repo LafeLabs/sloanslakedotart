@@ -10,10 +10,12 @@
 
 ## SELF-REPLICATING MEDIA MADE OF TRASH!
 
+![](https://raw.githubusercontent.com/LafeLabs/sloanslakedotart/main/trashmagic/server.png)
+
 ## [GITHUB REPLICATOR](https://github.com/LafeLabs/sloanslakedotart)
 
  - GET LAPTOPS DONATED
- - [MAKE A UBUNTU LINUX INSTALL USB THUMB DRIVE](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview) AND PAINT IN PURPLE
+ - [MAKE A UBUNTU LINUX INSTALL USB THUMB DRIVE](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview) AND PAINT IT PURPLE
  - INSTALL LINUX ON DONATED LAPTOPS AND WRITE THE PASSWORD AND LOGIN ON THE LAPTOP
  - NEVER PUT ANY PERSONAL OR PRIVATE INFORMATION ON THE LAPTOPS EVER
  - GO TO THE COMMAND LINE ON THE LAPTOP AND TYPE THE FOLLOWING TO INSTALL THE SERVER:
